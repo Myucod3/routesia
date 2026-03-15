@@ -1,0 +1,22 @@
+body {
+    background: rgb(110, 105, 105);
+}
+
+#st-nm {
+    color:black;
+    text-shadow: 3px 3px 5px rgb(155, 36, 36);
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.rts {
+    display: inline-block;
+    border: 1px, solid, black;
+}
+
