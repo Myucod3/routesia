@@ -1,18 +1,16 @@
 body {
-    background: rgb(110, 105, 105);
+    
+}
+
+footer {
+    display: flex;
+    align-items:center;
 }
 
 #st-nm {
     color:black;
+    font-size: 32px;
     text-shadow: 3px 3px 5px rgb(155, 36, 36);
-}
-
-h2 {
-    color: white;
-}
-
-h3 {
-    color: white;
 }
 
 .rts {
